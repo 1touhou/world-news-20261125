@@ -1,8 +1,8 @@
 # World News — 25 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/news-image-20261125)
-[![Competition](https://img.shields.io/badge/competition-news--image--20261125-green)](https://make.fun/c/news-image-20261125)
-[![Prize $100](https://img.shields.io/badge/prize-%24100-gold)](https://make.fun/c/news-image-20261125)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/1touhou/world-news-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/1touhou/world-news-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 Entry for the make.fun bounty [Sum up 25 November's world news in one image](https://make.fun/c/news-image-20261125) — $100 shared by the 50 best entries.
 
